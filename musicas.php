@@ -29,19 +29,19 @@
                             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                                     <li class="nav-item">
-                                        <a class="nav-link active" aria-current="page" href="/home.html">Página Inicial</a>
+                                        <a class="nav-link active" aria-current="page" href="/site-isabela/home.html">Página Inicial</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="/sobre.html">Sobre nós</a>
+                                        <a class="nav-link" href="/site-isabela/sobre.html">Sobre nós</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="/musicas.php">Músicas</a>
+                                        <a class="nav-link" href="/site-isabela/musicas.php">Músicas</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="/fotos.html">Fotos</a>
+                                        <a class="nav-link" href="/site-isabela/fotos.html">Fotos</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="/videos.html">Vídeos</a>
+                                        <a class="nav-link" href="/site-isabela/videos.html">Vídeos</a>
                                     </li>
                                 </ul>
                             </div>
